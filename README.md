@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 52px;" ><img height=30 src="https://user-images.githubusercontent.com/43790152/136710076-c634d2bf-fdfa-439c-9696-c87a7d6b0f2d.jpg"> Amaan - You Deserve to be Safe!</h1>
+<h1 align="center" style="font-size: 52px;" ><img height=30 src="https://user-images.githubusercontent.com/43790152/136710076-c634d2bf-fdfa-439c-9696-c87a7d6b0f2d.jpg"> Naveen - You Deserve to be Safe!</h1>
 
 This is Hackfair 2.0 Submission where team from Google DSC COMSATS University Islamabad developed a women safety app and played their part in women rights and empowerment.
 
@@ -15,12 +15,12 @@ Unfortunately, over time, violence against the fair sex has been intensified whi
 ## 😃 Inspiration & Motivation
 The thing that inspired us all to work for women’s empowerment was their capability to perform and deliver, they are as important as men. We as a student, boys, and part of families wanted to contribute to creating a beneficial cause of empowering women and to give them a tap on the shoulder to keep going and not give up!
 
-For this, we developed a mobile application named **“Amaan” - You deserve to be Safe!**
+For this, we developed a mobile application named **“Naveen” - You deserve to be Safe!**
 
 It is a mobile application developed specifically for women. That lets them take a leap that they can count on someone and we made sure that “SOMEONE” will be none other but their own contacts which they can send alerts, locations, and much more.
 
 ## 📱 Features
-Following are the features available in Amaan:
+Following are the features available in Naveen:
 - **Get Home Safe**: Tracking user's location after specific time (Set by the user)
 - **Safe Shake**: Shake mobile device to send SOS alerts even if the app is closed!
 - **Helplines**: Contact nearest police stations, hospitals, fire brigade, pharmacies etc.
